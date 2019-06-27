@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Information Studies 30
 
-You can use the [editor on GitHub](https://github.com/sidenyl/Information-Studies-30/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Weekly Posts
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Week 1:
+Packet-Switching as a key innovation that made the internet possible – breaking info into pieces, sending it over network, and pieced back together. This was how the term “end-to-end” came to be. This allowed information to be recreated if any errors occur in the line of connection. “Virtual circuit” models came about to support the resources necessary to “manage flow of data” (Gillespie 432). Alternatively, other argued for the “datagram” model that would only allow endpoints to manage data. If the endpoints aren’t reached successfully, the entire process starts over again. The advantage of this model is that the intermediate nodes are faster at the expense of retransmission time. For time sensitive tasks such as real time streaming of data, the virtual circuit model is more efficient. Otherwise, the datagram model is preferable. While the computer science programs emphasized research on datagram, the telephony companies emphasized research on virtual circuits, so the competition between the two different sectors ensued over network dominance. For the internet, the datagram model was more efficient, but the intermediate nodes still perform some routing and congestion control functions. However, as the internet began to emerge as a public and commercial network, designers are looking from more than just sending and receiving information. One of the meaning of “end-to-end” was that two networks were adjacent, but this meaning disappeared when discussing computer networks as opposed to cable networks. Another common meaning of “end-to-end” was the path taken from the start to finish within the many different path that the packet-switching design offered. Throughout the 1970s, the meaning of ETE focused on the responsibility of the endpoints to send an acknowledgement (‘ack’) of completed transaction to the sender. Into the 1980s, datagram model won over the virtual circuit model as telephone networks moved form analog switches to digital relays. Thus, the term ETE works with any network design and also works with claim about the social change thru technology. Gillespie found from his readings that the ETE “principle leads directly to the principle of simplicity in network design.” In Saltzer, Reed, and Clark paper, they change the term ETE to stand for an ideal instead of a design. Techno-futurists saw an utopian future in technology post industrial modernism. Barlow believed in end user freedom and saw threat to online speech in states and powerful corporations intent to censor the internet. Commercially, using the term ETE helps sell the products. 
+	Understanding the internet through social/cultural aspects and “its material specifities” (Dourish). Xerox paved the way to use IP on local scale. While Appletalk required little administrative effort to set up, TCP/IP networks requires set up. More in depth analysis can happen if the “internet” wasn’t a “singular phenomenon” (Dourish). Internet has many different layer of connection making it harder to understand just which set of layer means “decentralization.” Thus, the term “othernets” helps people to understand the internet as an “internetworking space of possibilities” (Dourish). In 1984 San Francisco, Jennings wrote up a software called Fido that would allow thousands of users to exchange messages and files. Fidonet’s design had a conventional structure – daily and weekly – and an immediate structure – communication in real time; the internet takes both these structures into account.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### References
 
-# Header 1
-## Header 2
-### Header 3
+Dourish, P. (2015) Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet. 5th Decennial Aarhus Conference on Critical Alternatives
 
-- Bulleted
-- List
+Gillespie, T. (2006) Engineering a Principle: 'End-to-End' in the Design of the Internet. Social Studies of Science, Vol. 36, No. 3. Sage Publications
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sidenyl/Information-Studies-30/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
