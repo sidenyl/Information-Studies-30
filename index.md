@@ -2,7 +2,7 @@
 
 ### Weekly Posts
 
-Week 1:
+**Week 1:**
 <br/>
 &emsp;
 &emsp;
@@ -12,7 +12,7 @@ Packet-Switching as a key innovation that made the internet possible – breakin
 Understanding the internet through social/cultural aspects and “its material specifities” (Dourish). Xerox paved the way to use IP on local scale. While Appletalk required little administrative effort to set up, TCP/IP networks requires set up. More in depth analysis can happen if the “internet” wasn’t a “singular phenomenon” (Dourish). Internet has many different layer of connection making it harder to understand just which set of layer means “decentralization.” Thus, the term “othernets” helps people to understand the internet as an “internetworking space of possibilities” (Dourish). In 1984 San Francisco, Jennings wrote up a software called Fido that would allow thousands of users to exchange messages and files. Fidonet’s design had a conventional structure – daily and weekly – and an immediate structure – communication in real time; the internet takes both these structures into account.
 <br/>
 <br/>
-Week 2:
+**Week 2:**
 <br/>
 &emsp;
 &emsp;
