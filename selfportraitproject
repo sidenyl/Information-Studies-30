@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>start</title>
+        <meta name="description" content="start">
+        
+        <style>
+        
+            body {
+              overflow: hidden;    
+            }
+
+            #myFace {   
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;    
+            }
+            
+       </style>
+        
+   </head>
+   <body>
+
+       <!-- a button that triggers the event 
+        <button onclick="myMoods()">salutation!</button>      
+        -->
+
+
+       <!-- this is the image, the onclick triggers the js function to change the image file  -->        
+       <img onclick="myMoods()" id="myFace" src="images/face00.png">
+
+
+
+
+        <script> 
+
+            // Name your function something that is useful, or something that communicates your sense of style or humor      
+            function myMoods() {
+
+            // Create a variable x, and then make it equal to a random number between 1 and 4 
+            var x = Math.floor((Math.random() * 4) + 1);
+
+            //Now use that random value of x to change the name of the source file in your image.  
+            document.getElementById('myFace').src='images/face0'+ x + '.png'  
+
+            } 
+
+
+            //change the image on its own every 10 seconds
+            setInterval(function() {
+            myMoods();
+            }, 10000);    
+
+        </script>   
+        
+ 
+       
+    </body>
+</html>
