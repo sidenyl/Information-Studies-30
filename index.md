@@ -32,7 +32,8 @@ I focused the self portrait on my interest in media: film and music. Since a lar
 <br/>
 &emsp;
 &emsp;
-The reading most helpful to the self portrait project was Nelson’s article “Computer Lib/Dream Machine” from week two. Since one of the tasks of the project was to use hypertext, the article provided useful information on how to go about implementing in an interactive way. His focus on hypermedia which he describes as the “branching or performing presentations which respond to user actions, systems of prearranged words and pictures” (Nelson 313) helped me decide to focus on my interest in film and music since it connected to the growing technology. Additionally, the article helped me to try to incorporate some manner of interactivity within the project site. For example, using the icons, users can navigate between different pages of the project. In the HTML file, I implemented this through placing an “a” tag around an “image” tag. </br></br>
+The reading most helpful to the self portrait project was Nelson’s article “Computer Lib/Dream Machine” from week two. Since one of the tasks of the project was to use hypertext, the article provided useful information on how to go about implementing in an interactive way. His focus on hypermedia which he describes as the “branching or performing presentations which respond to user actions, systems of prearranged words and pictures” (Nelson 313) helped me decide to focus on my interest in film and music since it connected to the growing technology. Additionally, the article helped me to try to incorporate some manner of interactivity within the project site. For example, using the icons, users can navigate between different pages of the project. In the HTML file, I implemented this through placing an “a” tag around an “image” tag. 
+</br>
 
 
 
