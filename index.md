@@ -25,6 +25,11 @@ In Nelson’s Computer Lib/Dream Machines, Nelson wants to bridge the gap betwee
 In Marcia Bates’s “The Design of Browsing and Berrypicking Techniques for the Online Search Interface,” she discusses the term “berrypicking” that she conveys as much more similar to how users actually search for information; using this method allows for better design of effective interfaces. “Berry-picking” differs from the traditional method of searching in the query, search process, range of search techniques, and information domain. Widely used strategies for searching include footnote chasing, journal run, area scanning, bibliographies-abstracting-indexing, and author searching.
 <br/>
 
+**Self Portrait Project:**
+<br/>
+https://sidenyl.github.io/Information-Studies-30/ 
+<br/>
+
 **Self Portrait reflection:**
 <br/>
 &emsp;
