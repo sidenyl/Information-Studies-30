@@ -27,7 +27,7 @@ In Marcia Bates’s “The Design of Browsing and Berrypicking Techniques for th
 
 **Self Portrait Project:**
 <br/>
-https://sidenyl.github.io/Information-Studies-30/ 
+[https://sidenyl.github.io/Information-Studies-30/]
 <br/>
 
 **Self Portrait reflection:**
