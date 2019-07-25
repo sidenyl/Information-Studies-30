@@ -79,6 +79,17 @@ In “How We Became Posthuman: Virtual Bodies in Cybernetic, Literature, and Inf
 &emsp;
 &emsp;
 In the section The Case of Race Classification and Reclassification under Apartheid, Bowker and Star discusses how convoluted the race classification process was under the apartheid. Around one million South Africans were in the colored category, making up the majority of borderline cases where they, labelled colored, applied for white classification. It was made mandatory for individuals to carry around ID cards at all time. There was even a case where two preschool children were held for three years in detention to wait on the government’s decision about their race. The technology for classification were extremely crude with classification based on appearances, body structures, senseless question on lifestyle, and “pencil test.” 
+<br/>
+&emsp;
+&emsp;
+Week 5:
+In her op-ed article: “Your job is about to get ‘taskified’,” Gray describes online piecework, or assembly line digital tasks, as “crowdwork.” These “users” are not bound by an employment contract but rather “user agreements.” Gray has been researching this outsourcing of “crowdwork” in one user: Khan. Khan finds work on one of the largest online marketplace at Amazon Mechanical Turk. He helped locals around him to earn their wages through AMT and came together to form a crew called Team Genius. However, they slowly started losing their account through some violation of Amazon “user agreement” with no explanation. With no legal rights between workers and employers, the employing company defaults to service agreements that are vague in workers rights. Gray calls for re-classifying crowdworkers as real employees that receive the necessary benefits. Corporation can benefit from an on-demand workforce with the boost in productivity and global economic growth as well as be the solution to financial insecurity and social unrest. The author specifically calls out the United States: “the nation with greatest number of tech companies…profiting from the global digital assembly line” (Gray). 
+<br/>
+&emsp;
+&emsp;
+	Jackson discusses in his chapter on rethinking repair the concept of broken world thinking. He describes it as a mode of thinking that takes decay and breakdown to think about nature and effects of information technology. This method of thinking considers the limit and fragility of nature, society, and technology. He notes how the modern infrastructural ideal has many cracks in transportation and social welfare programs. A more hopeful approach to thinking about the broken world is the ability to repair and the “sheer magnitude of the work represented in the ongoing maintenance and reproduction of established order” (Jackson). In his tone, Jackson conveys a greater sense of awe at the ability of infrastructure to continuously hold its shape through maintenance rather than the ability to create new infrastructures. He paints the word “breaking” in a more optimistic light in that it brings out generative and productive results. As an example, Jackson provides an image of Shipbreaking #4 by Edward Burtynsky that highlights how an “exquisite detail” of the technological life goes unrecognized by most. Many of the commercial ocean fleets (80%) ends up on the shores of Bangladesh and India that is then used to reproduce new fleets. However, to the Western, this activity is considered marginal. Burtynsky painting also conveys the timeless and wide-ranging scenes of breakdown and repair from technology to human to sea. From cultural works, individual often see the christening of new ships or “at the heights of strength and glory,” but the disassembly and repurposing of products is rarely shown (Jackson). Looking at the internet, the internet was formed through breaking the limits of existing protocols and practices. Jackson also considers how both visibility and invisibility are intimately linked to power distribution. Whether controlling how people see each other’s work or how individuals observe each other, this power of visibility happens across institutions, workplaces, and culture at large. As an example, Jackson notes the income distribution among nighttime crew across American campuses. 
+
+
 
 
 
@@ -109,4 +120,8 @@ The Field Guide to Human-Centered Design
 Hayles, K. (1999). “How We Became Posthuman: Virtual Bodies in Cybernetic, Literature, and Informatics” The University of Chicago Press. Read: prologue and chapter 1.
 
 Bowker, G. C., & Star, S. L. (1999). The case of race classification and reclassification under apartheid. Sorting things out: Classification and its consequences, 195-225.
+
+Gray, M. (2016) Your Job is About to Get Taskified Los Angeles Times
+
+Jackson, S. J. (2014). 11 Rethinking Repair. Media technologies: Essays on communication, materiality, and society, 221-39.
 
