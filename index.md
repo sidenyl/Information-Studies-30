@@ -82,7 +82,11 @@ In the section The Case of Race Classification and Reclassification under Aparth
 <br/>
 &emsp;
 &emsp;
-Week 5:
+
+**Week 5:**
+<br/>
+&emsp;
+&emsp;
 In her op-ed article: “Your job is about to get ‘taskified’,” Gray describes online piecework, or assembly line digital tasks, as “crowdwork.” These “users” are not bound by an employment contract but rather “user agreements.” Gray has been researching this outsourcing of “crowdwork” in one user: Khan. Khan finds work on one of the largest online marketplace at Amazon Mechanical Turk. He helped locals around him to earn their wages through AMT and came together to form a crew called Team Genius. However, they slowly started losing their account through some violation of Amazon “user agreement” with no explanation. With no legal rights between workers and employers, the employing company defaults to service agreements that are vague in workers rights. Gray calls for re-classifying crowdworkers as real employees that receive the necessary benefits. Corporation can benefit from an on-demand workforce with the boost in productivity and global economic growth as well as be the solution to financial insecurity and social unrest. The author specifically calls out the United States: “the nation with greatest number of tech companies…profiting from the global digital assembly line” (Gray). 
 <br/>
 &emsp;
